@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "vC+OqyTX4eFkEouwur4knrF+OOzOGVXAJl7MSpNdf2fSQCYff+V00rRvwMmbEP5tlQMkgDyAHKHNT7Fh3un5cA==",
+  "dgSpecHash": "plM7mgDwQ9yO+e6R2KGyoUDuYlt5kr/A5WTqWhSclXlSEla5VpYhNZ+eOs7AKrOsFB76xMdS/zjgM0nlGI2fpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ereno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
