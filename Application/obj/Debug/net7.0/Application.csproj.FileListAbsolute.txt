@@ -17,3 +17,5 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
