@@ -2,10 +2,12 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Persistence.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Persistence.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
@@ -17,5 +19,3 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
-C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
-C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

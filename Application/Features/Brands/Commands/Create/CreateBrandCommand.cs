@@ -2,15 +2,17 @@
 using MediatR;
 using Application.Services.Repositories;
 using AutoMapper;
+using Core.Application.Pipelines.Transaction;
 using Domain.Entities;
 
 namespace Application.Features.Brands.Commands.Create;
 
-public class CreateBrandCommand : IRequest<CreatedBrandResponse>
+public class CreateBrandCommand : IRequest<CreatedBrandResponse>, ITransactionalRequest
 {
     public string Name { get; set; }
 
-    public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
+    public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>,
+        ITransactionalRequest
     {
         private readonly IBrandRepository _brandRepository;
         private readonly IMapper _mapper;
@@ -30,8 +32,11 @@ public class CreateBrandCommand : IRequest<CreatedBrandResponse>
             await _brandBusinessRules.BrandNameCannotBeDuplicatedWhenInserted(request.Name);
             Brand brand = _mapper.Map<Brand>(request);
             brand.Id = Guid.NewGuid();
+            // Brand brand2 = _mapper.Map<Brand>(request);
+            // brand2.Id = Guid.NewGuid();
 
             await _brandRepository.AddAsync(brand);
+            //await _brandRepository.AddAsync(brand2);
 
             CreatedBrandResponse createdBrandResponse = _mapper.Map<CreatedBrandResponse>(brand);
 
