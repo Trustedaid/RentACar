@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m2yu2mtzKdvqRk4t36lDBkJUCfOWXUufS7gP0mGmDDcBXDnu8qLuQLhpMw8thFu4QsO4UfCX+kbqRA415uYQgg==",
+  "dgSpecHash": "YKwfD5hzHjpiNSoW3DoGlJmzUl+JFBRRedMu48XguLzTdM7H3y/xRjLTD6pGNpPYexFa9ViXQoJJcqqdeHLZyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ereno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.1\\fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

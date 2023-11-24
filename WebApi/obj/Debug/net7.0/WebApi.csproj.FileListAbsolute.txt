@@ -270,3 +270,5 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

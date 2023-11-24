@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9IbnQeBebEot4K6cemVhuMIxauaS+eMuIURt345PSGMnPZlVnXNEH5Qe8Fgtv2/n7S6vUS2qupUASe3Zxq6j9Q==",
+  "dgSpecHash": "o5NKAudT9qz9bn6rDJyDG7ZmWUXSHhjnRod6ewOGTlQFvIU527ueA6mgatLPy4MotkodR9ohPRwlpc4kTo4aoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\ereno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.1\\fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
