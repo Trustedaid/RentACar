@@ -17,7 +17,7 @@ In summary, this project amalgamates various cutting-edge technologies and metho
 
 Çeşitli teknolojileri ve metodolojileri bir araya getirerek güçlü ve sürdürülebilir bir mimari sağlamak için bir proje oluşturuldu. 
 
-Domain-Driven Design (DDD), Clean Architecture prensipleri ve SOLID prensiplerine dayalı bir temel oluşturmaya odaklanır. CQRS (Command Query Responsibility Segregation) uygulamasını vurgular, böylelikle ilgili konuların daha iyi ayrılmasını ve daha temiz kod elde edilmesini sağlar.
+- Domain-Driven Design (DDD), Clean Architecture prensipleri ve SOLID prensiplerine dayalı bir temel oluşturmaya odaklanır. CQRS (Command Query Responsibility Segregation) uygulamasını vurgular, böylelikle ilgili konuların daha iyi ayrılmasını ve daha temiz kod elde edilmesini sağlar.
 Projede, gelişmiş senkron ve asenkron repository desenleri, dinamik arama yetenekleri ve AutoMapper gibi araçlarla Response-Request desenine dayalı eşleme kullanılır. Veritabanı erişimi ve yönetimi için Entity Framework en iyi uygulamalarıyla kullanılır. Ayrıca, etkili uzantı yazma tekniklerini içeren API uygulaması da kapsanır.
 - Domain modelleme, gelişmiş eşleme teknikleri ve göç stratejilerini genişletir. İş kurallarının uygulanmasına ve temiz kod prensiplerine uyulmasına daha derinlemesine değinir. Projeye, Fluent Validation ile doğrulama boruları ve işlem operasyonları dahil olmak üzere genel hata işleme ve boru hatası teknikleri entegre edilir.
 - Hem bellek içi hem de Redis önbellek uygulamalarını içeren önbellekleme stratejilerini tanıtır. Ayrıca, kapsamlı günlükleme yetenekleri için Serilog ile günlükleme borularını da içerir.
