@@ -283,3 +283,5 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Serilog.Sinks.File.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Security.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Security.pdb
